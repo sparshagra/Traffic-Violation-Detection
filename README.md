@@ -52,17 +52,9 @@ Every violating vehicle gets an entry. A vehicle is flagged when:
 |---|---|
 | ![dual rider](assets/result_dual_rider.jpg) | ![dense traffic](assets/result_dense_traffic.jpg) |
 
-| Plate OCR + Depth Filtering | Busy Indian Street — Multi Bike |
-|---|---|
-| ![plate ocr](assets/result_plate_ocr.jpg) | ![multi bike](assets/result_multi_bike.jpg) |
-
-<div align="center">
-
-**Busy street scene — 8 bikes, 8 violations detected**
-
-![busy street](assets/result_busy_street.jpg)
-
-</div>
+| Busy Indian Street — Multi Bike |
+|---|
+| ![multi bike](assets/result_multi_bike.jpg) |
 
 ---
 
